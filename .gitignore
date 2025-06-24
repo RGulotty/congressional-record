@@ -1,0 +1,9 @@
+# Raw data should not be version controlled
+data_raw/
+*.zip
+*.gz
+*.tar
+*.Rhistory
+.RData
+.Rproj.user/
+output/
